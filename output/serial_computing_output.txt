@@ -1,0 +1,7 @@
+Serial Computation Process
+Step 1: total = 1
+Step 2: total = 3
+Step 3: total = 6
+Step 4: total = 10
+Step 5: total = 15
+Final Serial Sum = 15

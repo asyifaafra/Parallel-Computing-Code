@@ -1,0 +1,4 @@
+Parallel computation
+Process 1: sum(1 to 3) = 6
+Process 2: sum(4 to 5) = 9
+Final Parallel Sum = 15
