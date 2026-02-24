@@ -12,7 +12,7 @@ Implementasi Sequential dan Parallel Computing Menggunakan Python
 3. Tujuan dari proyek ini adalah untuk memahami perbedaan cara kerja pemrosesan data secara berurutan dan secara bersamaan menggunakan beberapa inti prosesor.
    
 ## 📂 Struktur Repository
-parallel-computing-python/
+Parallel-Computing-Code/
 ├── src/
 ├── docs/
 ├── output/
