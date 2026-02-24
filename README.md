@@ -1,7 +1,7 @@
 ## ✍️ Identitas
-Nama: Asyifa Afra Sayyida
-NRP : 15-2024-209
-Mata Kuliah: Komputasi Paralel dan Sistem Terdistribusi - AA
+- Nama: Asyifa Afra Sayyida
+- NRP : 15-2024-209
+- Mata Kuliah: Komputasi Paralel dan Sistem Terdistribusi - AA
 
 ## 💻 Tugas Komputasi Paralel dan Sistem Terdistribusi
 Implementasi Sequential dan Parallel Computing Menggunakan Python
@@ -26,11 +26,11 @@ python serial_computation.py
 python parallel_computation.py
 
 ## 🧠 Penjelasan Singkat
-🔹 Sequential Computing
+1. Sequential Computing
 - Proses berjalan satu per satu
 - Menggunakan satu alur eksekusi
 - Hasil dihitung secara berurutan
-🔹 Parallel Computing
+2. Parallel Computing
 - Proses dibagi menjadi beberapa bagian
 - Dijalankan secara bersamaan menggunakan multiprocessing
 - Hasil setiap proses digabung menjadi satu
