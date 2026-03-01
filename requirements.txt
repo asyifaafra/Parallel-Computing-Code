@@ -1,1 +1,2 @@
-multiprocessing
+# Requirements for Parallel Computing Project
+numpy

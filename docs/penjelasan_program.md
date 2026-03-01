@@ -14,3 +14,27 @@ Program di atas merupakan contoh implementasi komputasi sekuensial (serial compu
 5. Proses start() menjalankan perhitungan secara paralel pada beberapa core.
 6. Proses join() memastikan semua proses selesai sebelum hasil digabungkan.
 7. Nilai dari Queue dijumlahkan untuk memperoleh hasil akhir.
+
+## 📘 Penjelasan Proses Program SISD (Single Instruction Single Data)
+1. Menggunakan satu instruksi untuk memproses satu data dalam satu waktu.
+2. Proses penjumlahan dilakukan secara berurutan dari angka 1 sampai 5.
+3. Menggunakan satu alur eksekusi (tidak paralel).
+4. Sama seperti konsep program serial.
+
+## 📘 Penjelasan Proses Program SIMD (Single Instruction Multiple Data)
+1. Menggunakan satu jenis instruksi yang sama untuk banyak data sekaligus.
+2. Data disimpan dalam bentuk array.
+3. Operasi dilakukan dalam satu perintah untuk seluruh data.
+4. Lebih efisien untuk pengolahan data dalam jumlah besar.
+
+## 📘 Penjelasan Proses Program MISD (Multiple Instruction Single Data)
+1. Menggunakan beberapa instruksi berbeda pada satu data yang sama.
+2. Satu nilai diproses dengan metode perhitungan yang berbeda.
+3. Hasil akhir tetap sama meskipun cara perhitungannya berbeda.
+4. Jarang digunakan dalam sistem umum, lebih banyak bersifat teoritis.
+
+## 📘 Penjelasan Proses Program MIMD (Multiple Instruction Multiple Data)
+1. Menggunakan beberapa instruksi untuk memproses beberapa data secara bersamaan.
+2. Data dibagi menjadi beberapa bagian.
+3. Proses dijalankan paralel menggunakan multiprocessing.
+4. Hasil dari setiap proses digabungkan di akhir.

@@ -1,0 +1,3 @@
+SIMD Process:
+Data: [1 2 3 4 5]
+Final SIMD Sum = 15
